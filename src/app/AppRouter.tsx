@@ -17,7 +17,7 @@ const AppRouter = () => {
                     </Layout>
                 </RequireAuth>
             }>
-                <Route path="/calendar" element={<EventPage />}/>
+                <Route path="/calendar" element={<EventPage guests={[]} />}/>
             </Route>
             <Route path="*" element={<Page404 />}> </Route>
         </Routes>
