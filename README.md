@@ -6,19 +6,6 @@ EasyCalendar - это удобное приложение-календарь, п
 
 https://easy-calendar.vercel.app
 
-
-## Пароли от аккаунтов
-
-![image](https://github.com/webDevArtur/EasyCalendar/assets/141954990/f8fa9a13-9221-4e5f-9538-b7d789979949)
-
-## Авторизация
-
-![image](https://github.com/webDevArtur/EasyCalendar/assets/141954990/d6261df1-8189-48d0-9730-1d645b8ff356)
-
-## Отображение задач
-
-![image](https://github.com/webDevArtur/EasyCalendar/assets/141954990/c2f70452-d2ad-49fb-9c06-33304f22110b)
-
 ## Особенности
 
 - Удобная авторизация: Войдите в приложение с помощью вашей учетной записи, чтобы получить доступ к вашему персональному календарю и сохранить ваши данные в безопасности.
@@ -34,3 +21,15 @@ https://easy-calendar.vercel.app
 - Многопользовательский доступ: Вы можете создавать события и задачи для других пользователей, делая совместное планирование и управление расписанием более удобным и эффективным.
 
 - EasyCalendar поможет вам оставаться организованным, управлять вашим временем и никогда не пропускать важные события. Начните использовать EasyCalendar сегодня и упростите управление вашим расписанием!
+
+## Пароли от аккаунтов
+
+![image](https://github.com/webDevArtur/EasyCalendar/assets/141954990/f8fa9a13-9221-4e5f-9538-b7d789979949)
+
+## Авторизация
+
+![image](https://github.com/webDevArtur/EasyCalendar/assets/141954990/d6261df1-8189-48d0-9730-1d645b8ff356)
+
+## Отображение задач
+
+![image](https://github.com/webDevArtur/EasyCalendar/assets/141954990/c2f70452-d2ad-49fb-9c06-33304f22110b)
