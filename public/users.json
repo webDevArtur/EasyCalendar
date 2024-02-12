@@ -1,0 +1,14 @@
+[
+    {
+        "username": "admin@mail.ru",
+        "password": "admin@mail.ru"
+    },
+    {
+        "username": "user@mail.ru",
+        "password": "user@mail.ru"
+    },
+    {
+        "username": "user2@mail.ru",
+        "password": "user2@mail.ru"
+    }
+]
