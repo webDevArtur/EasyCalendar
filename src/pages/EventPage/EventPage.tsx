@@ -64,7 +64,7 @@ const EventPage: FC<EventForm> = () => {
         dispatch(createEvents(eventForm) as any);
 
         setEventForm({
-            author: '',
+            author: user.username,
             date: '',
             description: '',
             guest: '',
