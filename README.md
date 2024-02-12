@@ -1,30 +1,32 @@
-# React + TypeScript + Vite
+# EasyCalendar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EasyCalendar - это удобное приложение-календарь, предназначенное для организации вашего расписания, планирования событий и управления задачами. Независимо от того, нужно ли вам запланировать встречу, событие или просто отслеживать ваше расписание, EasyCalendar делает это легко и эффективно.
 
-Currently, two official plugins are available:
+## Сслыка на деплой проекта
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://easy-calendar.vercel.app
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Пароли от аккаунтов
 
-- Configure the top-level `parserOptions` property like this:
+![image](https://github.com/webDevArtur/EasyCalendar/assets/141954990/f8fa9a13-9221-4e5f-9538-b7d789979949)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Авторизация
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![image](https://github.com/webDevArtur/EasyCalendar/assets/141954990/d6261df1-8189-48d0-9730-1d645b8ff356)
+
+## Особенности
+
+Удобная авторизация: Войдите в приложение с помощью вашей учетной записи, чтобы получить доступ к вашему персональному календарю и сохранить ваши данные в безопасности.
+
+Создание событий и задач: Легко создавайте новые события и задачи, указывая их описание, дату и время. Кроме того, вы можете добавлять участников к каждому событию для совместного планирования.
+
+Отображение на календаре: Ваши события и задачи отображаются на удобном календаре, который помогает вам наглядно просматривать ваше расписание на любой день.
+
+Фильтрация и поиск: Легко фильтруйте и ищите события и задачи по дате, описанию и участникам, чтобы быстро найти нужную информацию.
+
+Управление участниками: Добавляйте участников к каждому событию, включая пользователей, которые также используют EasyCalendar, чтобы планировать события вместе.
+
+Многопользовательский доступ: Вы можете создавать события и задачи для других пользователей, делая совместное планирование и управление расписанием более удобным и эффективным.
+
+EasyCalendar поможет вам оставаться организованным, управлять вашим временем и никогда не пропускать важные события. Начните использовать EasyCalendar сегодня и упростите управление вашим расписанием!
